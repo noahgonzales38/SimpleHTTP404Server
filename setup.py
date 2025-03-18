@@ -14,10 +14,10 @@ setup(
     description='A Python SimpleHTTPServer, but serves 404.html if a page is not found.',
     long_description=(read('README.rst') + '\r\n' +
                       read('CHANGELOG.rst') + '\r\n'),
-    url='http://github.com/clokep/SimpleHTTP404Server/',
+    url='http://github.com/noahgonzales38/SimpleHTTP404Server/',
     license='MIT',
-    author='Patrick Cloke',
-    author_email='patrick@cloke.us',
+    author='Noah Gonzales',
+    author_email='noahgonzales281@gmail.com',
     py_modules=['SimpleHTTP404Server'],
     include_package_data=True,
     classifiers=[
